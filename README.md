@@ -1,0 +1,2 @@
+# Itokagimaru_daw_tex
+Itokagimaru_daw用のリソパのレポジトリだよ
